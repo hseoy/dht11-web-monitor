@@ -3,7 +3,7 @@ flask web application for dht11(temperature and humidity) sensor monitoring
 
 ## Structure
 
-![structure](images/structure.png)
+![structure](./images/structure.png)
 
 ## Protocol
 
