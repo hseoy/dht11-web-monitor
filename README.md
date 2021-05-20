@@ -15,3 +15,11 @@ flask web application for dht11(temperature and humidity) sensor monitoring
 |  3   | temperature(integer)    |
 |  4   | temperature(fractional) |
 |  5   | end flag(0x03)          |
+
+## Screenshot
+
+- home page
+![home page](./images/home_screenshot.png)
+
+- graph page
+![graph page](./images/graph_screenshot.png)
